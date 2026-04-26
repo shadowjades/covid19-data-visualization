@@ -51,5 +51,19 @@ This project uses the public COVID-19 dataset from **Our World in Data**, proces
 ```bash
 git clone https://github.com/shadowjades/covid19-data-visualization.git
 cd covid19-data-visualization
+```
 
+### 2. 安装依赖 | Install dependencies
+```bash
 pip install -r requirements.txt
+```
+
+### 3.准备数据 | Prepare the data
+```bash
+https://drive.google.com/drive/folders/1aflgFptiZZ27XkGBRtCBE_WVxXYtuadU?usp=drive_link
+```
+
+### 4. 运行任意可视化脚本 | Run any visualization script
+```bash
+python global_cases_line.py
+```
