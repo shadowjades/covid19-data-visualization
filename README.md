@@ -4,6 +4,11 @@
 
 This project uses the public COVID-19 dataset from **Our World in Data**, processes the data with Python, and creates multiple **interactive dynamic charts** using **Plotly** to explore pandemic trends, vaccination progress, economic indicators (GDP), and differences across continents.
 
+## 📁 数据说明
+
+下图是预处理后的数据集样本截图：
+
+![COVID-19 数据集样本截图](sample/1.png)
 ---
 
 ## ✨ 项目特点 | Features
