@@ -7,8 +7,12 @@ This project uses the public COVID-19 dataset from **Our World in Data**, proces
 ## 📁 数据说明
 
 下图是预处理后的数据集样本截图：
+The following image is a screenshot of the preprocessed dataset sample:
 
 ![COVID-19 数据集样本截图](sample/1.png)
+
+具体参考图在sample文件夹有局部展示。
+The specific reference diagrams are partially displayed in the sample folder.
 ---
 
 ## ✨ 项目特点 | Features
